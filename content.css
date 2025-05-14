@@ -931,6 +931,6 @@
   line-height: 56px;
   border-bottom-width: 12px;
   margin-left: 84px;
-  border-top-width: 25px;
-  margin-right: 47px;
+  margin-left: 25px;
+  padding-top: 47px;
 }
