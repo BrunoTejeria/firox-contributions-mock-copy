@@ -198,5 +198,6 @@
   margin-left: 40px;
   margin-right: 41px;
   line-height: 31px;
-  margin-bottom: 97px;
+  border-bottom-width: 0px;
+  line-height: 81px;
 }
